@@ -1,0 +1,7 @@
+LIBRARY libresample
+EXPORTS
+  resample_close		@1
+  resample_dup			@2
+  resample_get_filter_width	@3
+  resample_open			@4
+  resample_process		@5
